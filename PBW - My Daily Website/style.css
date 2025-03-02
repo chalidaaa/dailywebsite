@@ -1,0 +1,19 @@
+button{
+    background-color: seagreen;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+    
+button[type="reset"] {
+    background-color: maroon;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
